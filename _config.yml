@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Robert Gonzalez"
-  avatar           : /_images/Robert-Gonzalez-profile.jpg# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/Robert-Gonzalez-profile.jpg"
   bio              : "Caffeine fueled experiences, code, rants, and hacks from my life."
   location         : "Long Beach, CA"
   email            :
