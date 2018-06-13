@@ -50,7 +50,7 @@ I read an article about writing a user manual about your self for others. I thin
 
 Capable, Organized, independent, practical, idealist (ironic?), entertaining.
 
-16personalities.com suggested my personality type is what they refer to as an [Architect](https://www.16personalities.com/intj-personality).
+16personalities.com suggested my personality type is what they refer to as an [Architect](https://www.16personalities.com/intj-personality){:rel="nofollow"}.
 
 ### Greatest Weakness?
 
