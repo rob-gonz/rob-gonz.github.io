@@ -5,6 +5,7 @@ date: 2025-01-01 21:00:00 +0800
 categories: [General, Blog]
 tags: [meta, blog]     # TAG names should always be lowercase
 description: A short little post for me to remember some stuff about how this blog is set up. As well as an opportunity to test out a few things before putting together some real posts. 
+author: default
 ---
 
 
